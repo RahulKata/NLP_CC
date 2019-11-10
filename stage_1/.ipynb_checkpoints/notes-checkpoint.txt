@@ -47,3 +47,8 @@
 
 > Stemming
   process of reducing inflected words to their word stem, base or root form.
+  eg. PorterStemmer ,  SnowballStemmer(aka Porter2)
+  https://stackoverflow.com/questions/1787110/what-is-the-true-difference-between-lemmatization-vs-stemming
+  
+>Stop Words
+ Common words which are found in all the sentences.
