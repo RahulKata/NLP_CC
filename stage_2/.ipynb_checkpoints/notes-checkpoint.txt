@@ -1,0 +1,25 @@
+Language models and LEXICONS:
+
+PGM
+> Rich frameworks for encoding probability distributions over complex domains.
+> Related to Neural network but not same
+
+Nodes
+> Random variables or features
+
+Edges
+>aka Inter-Nodal Dependencies
+
+P - nature of the problem is probabilistic because of uncertainity
+G - visualizes better
+M - alogirthms represented using mathematical equations
+
+Joint porbability distribution -- The joint probability of two or more random variables
+Conditional porbability distribution -- probability of an event given the occurrence of another event.
+Marginal porbability distribution -- probability of an event for one random variable, irrespective of the outcome of another random variable.
+
+clique
+> a clique is a subset of vertices of an undirected graph such that every two distinct vertices in the clique are adjacent
+
+Posterior probability
+> the statistical probability that a hypothesis is true calculated in the light of relevant observations
