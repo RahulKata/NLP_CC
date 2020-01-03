@@ -1,1 +1,5 @@
 This blog is very helpful! - https://medium.com/@gunjanagicha/word-embeddings-ee718cd2b8b5
+
+Two different models:
+1. Skip Gram Model - we have got one centre word and we predict all other context words
+2. Continuous Bag of Words(CBOW) - predict centre word from context(bag of) words.
